@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <link rel="stylesheet" href="\style.css">
+    <title>MoonlightingDev</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">  
+  </head>
+  <body>
+  
+    <header>
+      <h2>MoonlightingDev</h2>
+    </header>
+
+    <section>
+      <nav>
+        <ul>
+          <li><a href="index.html">Home</a></li>
+          <li><a href="resume-page.html">Resume</a></li>
+          <li><a href="random-page.html">Random</a></li>
+        </ul>
+      </nav>
+  
+      <article>
+        <h1>Projects</h1>
+        <p>Currently working at MHIAA as an IT Technician.</p>
+        <p>Detail-oriented IT technician with extensive experience troubleshooting hardware and software issues, optimizing system performance, and delivering exceptional user support.</p>
+      </article>
+    </section>
+  
+  </body>
+</html>
