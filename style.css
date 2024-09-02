@@ -1,0 +1,14 @@
+body {
+   overflow: hidden;
+   display: flex;
+   align-items: center;
+   justify-content: center;
+   height: 100vh;
+ }
+ .pixel-art{
+   width: 1px;
+   height: 1px;
+   transform: scale(20);
+   box-shadow: 1px 0 red, 2px 0 green, 3px 0 blue;
+
+ }
